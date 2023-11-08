@@ -1,0 +1,14 @@
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\bin\Debug\net7.0\Exercise6.exe
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\bin\Debug\net7.0\Exercise6.deps.json
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\bin\Debug\net7.0\Exercise6.runtimeconfig.json
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\bin\Debug\net7.0\Exercise6.dll
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\bin\Debug\net7.0\Exercise6.pdb
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.AssemblyInfoInputs.cache
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.AssemblyInfo.cs
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.csproj.CoreCompileInputs.cache
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.dll
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\refint\Exercise6.dll
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.pdb
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\Exercise6.genruntimeconfig.cache
+C:\Users\victo\OneDrive\Documentos\Estudos\HackerRank\Week2\Exercise6\Exercise6\obj\Debug\net7.0\ref\Exercise6.dll
